@@ -1,0 +1,5 @@
+material_FreefireTile 			Marked Freefire Zone
+object_FreefireSignB			Large Freefire Zoner
+object_FreefireSignS			Small Freefire Zoner
+buildtoolbar_popup_obj_FreefireSignB Any armed guards standing in a 10x10 area of this object will use their shotguns even if freefire is off. Useful for Canteen + Super Max sec.
+buildtoolbar_popup_obj_FreefireSignS Any armed guards standing in a 5x5 area of this object will use their shotguns even if freefire is off .Useful if you find Marked Freefire Zones too ugly.

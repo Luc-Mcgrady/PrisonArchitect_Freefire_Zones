@@ -1,0 +1,44 @@
+BEGIN Object     
+    Name                 ArmedGuard
+    MoveSpeedFactor      0.500000  
+    Toughness            15.0000  
+    Price                -1500  
+    RenderDepth          2  
+    ViewRange            15
+    BlockedBy            Wall
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    Research             Armoury
+    Sprite               ArmedGuard
+    SpriteVariants       4
+    Properties           Entity
+    Properties           Staff
+    Properties           Guard
+    Equipment            Shotgun
+    Properties           Scripted 
+END
+BEGIN Material   
+    Name                 FreefireTile 
+    ConstructionTime     5.00000  
+    SoftEdged            -1  
+    Price                -20
+    BEGIN Sprite0    x 62  y 62  END
+END
+BEGIN Object
+	Name                 FreefireSignB
+	Price	-500
+	    ConstructionTime     1.00000  
+    MoveSpeedFactor      0.500000  
+	BEGIN Sprite    x 0  y 0 w 4 h 2  END
+	Width                 2
+	Properties           BuiltOnWall
+
+END
+BEGIN Object
+	Name                 FreefireSignS
+	Price	-250
+	BEGIN Sprite    x 4  y 0 w 2 h 2  END
+    ConstructionTime     1.00000  
+    MoveSpeedFactor      0.500000  
+    Properties           BuiltOnWall
+END
