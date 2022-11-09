@@ -22,7 +22,7 @@ BEGIN Material
     ConstructionTime     5.00000  
     SoftEdged            -1  
     Price                -20
-    BEGIN Sprite0    x 62  y 62  END
+    BEGIN Sprite0    x 25 y 0 END
 END
 BEGIN Object
 	Name                 FreefireSignB
