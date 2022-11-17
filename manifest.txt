@@ -1,8 +1,7 @@
 
 Name                 "Freefire Zones"  
-Description          "This mod adds dynamic freefire so that armed guards in certain areas are always in freefire so no min sec guys get killed because your super max sec guys need a gun to their brain to figure out they're not going to escape.\n\nThe normal freefire button works fine still and overrides anything you put down.The Zoning has a plain red texture but if you look in the files its not!! you don't have to use ugly red things all the time, use ugly signs instead.\n\noh no updating the mod overwrote my description and i cant remember what people were complaining about\n\nQ/A\n\nQ:Why cant i place my signs \n\n-------------------------------------\n\nA:Either your not trying to place them on walls or my mod sucks"
-
-Author               "A Bloke"
+Description          "This mod adds dynamic freefire so that armed guards in certain areas are always in freefire so no min sec guys get killed because your super max sec guys need a gun to their brain to figure out they're not going to escape.\n\nThe normal freefire button works fine still and overrides anything you put down.The Zoning has a plain red texture but if you look in the files its not!! you don't have to use ugly red things all the time, use ugly signs instead.\n\noh no updating the mod overwrote my description and i cant remember what people were complaining about\n\nQ/A\n\nQ:Why cant i place my signs \n\n-------------------------------------\n\nA:Either your not trying to place them on walls or my mod sucks"  
+Author               "A Bloke"  
 IsTranslation        false  
 FileID               F704983078  
 SteamAuthor          A76561198071577146  
